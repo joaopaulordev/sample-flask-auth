@@ -79,7 +79,7 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 projeto-config.txt
-
+/instance
 
 # Unit test / coverage reports
 htmlcov/
